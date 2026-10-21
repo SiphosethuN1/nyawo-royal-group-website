@@ -1,22 +1,27 @@
-Nyawo Royal Group Website
-Official website for Nyawo Royal Group.
 
-Services
-Tutoring
-Matric & Extra Study Sessions
-Career Development
-Operator Training
-Professional Attorney Services
-Technologies
-React
-Node.js
-Express
+# Nyawo Royal Group Website
 
-Team
-Siphosethu Nyawo
-Sanele Mfeka
+Official website for **Nyawo Royal Group**.
 
-Status
-Project in Development
+## Services
 
+- Tutoring
+- Matric & Extra Study Sessions
+- Career Development
+- Operator Training
+- Professional Attorney Services
 
+## Technologies
+
+- React
+- Node.js
+- Express
+
+## Team
+
+- Siphosethu Nyawo
+- Sanele Mfeka
+
+## Status
+
+🚧 Project in Development
