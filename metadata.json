@@ -1,0 +1,6 @@
+{
+  "name": "Pactum — Strategic Financial Advisory",
+  "description": "Award-winning strategic financial advisory and wealth leadership platform, featuring bespoke luxury typography, staggered analytics, interactive process timelines, and consultation scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
