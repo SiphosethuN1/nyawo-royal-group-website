@@ -29,7 +29,7 @@ const CASE_STUDIES: CaseStudy[] = [
     impactMetric: '100%',
     metricLabel: 'Practical Competency',
     image:
-      '/images/Operator Training,Heavy Plant Excavator & ADT Workplace Certification.jpg',
+      '/images/Operator Training,.jpg',
     tags: ['ADT', 'Excavator', 'Safety Compliance'],
   },
   {
@@ -41,7 +41,7 @@ const CASE_STUDIES: CaseStudy[] = [
     impactMetric: '4.5x',
     metricLabel: 'Interview Call Rate',
     image:
-      '/images/Career Development Professional CV & Interview Coaching Securing Placement.jpg',
+      '/images/Career Development .jpg',
     tags: ['CV Writing', 'Interview Coaching', 'Job Readiness'],
   },
   {
@@ -65,7 +65,7 @@ const CASE_STUDIES: CaseStudy[] = [
     impactMetric: 'Resolved',
     metricLabel: 'Compliant & Protected',
     image:
-      '/images/Legal Services Commercial Contract Drafting & Labour Dispute Settlement.jpg',
+      '/images/Legal Services .jpg',
     tags: ['Contracts', 'Labour Law', 'Compliance'],
   },
 ];

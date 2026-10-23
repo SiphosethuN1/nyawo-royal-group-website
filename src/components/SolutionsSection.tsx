@@ -110,7 +110,7 @@ export const SolutionsSection: React.FC<SolutionsSectionProps> = ({
           <div className="lg:col-span-6">
             <div className="relative aspect-[4/3] rounded-xs overflow-hidden shadow-2xl border border-gray-200 bg-gray-100">
               <img
-                src="/images/OUR SERVICES-Comprehensive Support Under One Roof.jpg"
+                src="/images/OUR SERVICES-.jpg"
                 alt="South African students and professionals engaged in practical career development"
                 className="w-full h-full object-cover object-center hover:scale-102 transition-transform duration-700"
               />

@@ -80,7 +80,7 @@ export const SkyscraperStats: React.FC = () => {
         {/* Right Column: Imagery */}
         <div className="lg:col-span-6 relative min-h-[380px] lg:min-h-full overflow-hidden bg-[#050100]">
           <img
-            src="/images/We focus on understanding your needs and guiding you towards practical next steps. Whether upgrading academic marks or mastering yellow plant machinery, our team is dedicated to your progress.jpg"
+            src="/images/We focus on .jpg"
             alt="Heavy construction machinery and technical engineering field training"
             className="w-full h-full object-cover object-center filter brightness-[0.88] contrast-[1.1] hover:scale-102 transition-transform duration-700"
           />

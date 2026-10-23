@@ -25,7 +25,7 @@ const STEPS = [
       'Honest guidance tailored to your objectives',
     ],
     image:
-      '/images/Field Practicality Heavy equipment operator & safety standards in Othobothini and surrounding region.jpg',
+      '/images/Field Practicality Heavy equipment .jpg',
     alt: 'Interactive workshop training session and academic assistance',
   },
   {

@@ -64,7 +64,7 @@ export const TestimonialsBanner: React.FC<TestimonialsBannerProps> = ({
       {/* Top Banner with Background Image & Floating Card */}
       <div className="relative w-full h-[460px] md:h-[520px] overflow-hidden">
         <img
-          src="/images/Our Commitment Your Progress Is Our Purpose..jpg"
+          src="/images/Our Commitment ..jpg"
           alt="Our commitment to your progress — Nyawo Royal Group"
           className="w-full h-full object-cover object-center filter brightness-[0.75] contrast-[1.1]"
         />
