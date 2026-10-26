@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { ArrowUpRight, Mail, Phone, MapPin, MessageSquare } from 'lucide-react';
 
 interface FooterProps {
@@ -51,7 +51,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
 
           <div className="flex items-center gap-3">
             <a
-              href="https://wa.me/27796339234"
+              href="https://wa.me/27694986318"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#F7C206] text-[#050100] text-xs font-bold hover:bg-[#FCCF29] transition-all"
@@ -118,7 +118,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-3.5 h-3.5 text-[#F7C206]" />
-                <span>Telephone: +27 (0) 79 633 9234</span>
+                <span>Telephone: +27 (0) 69 498 6318</span>
               </div>
             </div>
           </div>
@@ -195,13 +195,13 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </li>
               <li className="pt-2">
                 <a
-                  href="https://wa.me/27796339234"
+                  href="https://wa.me/27694986318"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs text-[#F7C206] hover:underline flex items-center gap-1 font-semibold"
                 >
                   <MessageSquare className="w-3.5 h-3.5" />
-                  <span>WhatsApp: +27 (0) 79 633 9234</span>
+                  <span>WhatsApp: +27 (0) 69 498 6318</span>
                 </a>
               </li>
             </ul>
@@ -215,7 +215,6 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             <div className="space-y-3 text-xs text-[#FCFCFC]/70 font-normal">
               <div>
                 <span className="text-[10px] uppercase text-[#FCCF29] block font-mono">Directors</span>
-                <p className="text-[#FFFEFE] font-medium">Ms. Nombulelo Mlambo</p>
                 <p className="text-[#FFFEFE] font-medium">Mr. Sakhile Nyawo</p>
               </div>
               <div>

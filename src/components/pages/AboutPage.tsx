@@ -59,7 +59,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
 
           <p className="text-base sm:text-lg md:text-xl text-[#FCFCFC]/85 max-w-2xl leading-relaxed">
             Nyawo Royal Group (Pty) Ltd is a South African company established in 2026 and based in
-            Othobothini, South Africa. Directed by Ms. Nombulelo Mlambo and Mr. Sakhile Nyawo.
+            Othobothini, South Africa. Directed by Mr. Sakhile Nyawo.
           </p>
         </div>
       </section>
@@ -84,7 +84,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
               <span className="text-xs font-mono font-bold text-[#743F05] uppercase block">
                 Company Leadership
               </span>
-              <p className="text-base font-bold text-[#050100]">Ms. Nombulelo Mlambo & Mr. Sakhile Nyawo</p>
+              <p className="text-base font-bold text-[#050100]">Mr. Sakhile Nyawo</p>
               <p className="text-xs text-[#050100]/75">
                 Executive Directors, Nyawo Royal Group (Pty) Ltd
               </p>

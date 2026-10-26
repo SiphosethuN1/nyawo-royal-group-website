@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { ArrowUpRight, Mail, Phone, MapPin, CheckCircle2, MessageSquare, Clock, ShieldAlert } from 'lucide-react';
 import { validateConsultationForm, ConsultationFormData, ValidationErrors } from '../utils/advisory';
 
@@ -100,7 +100,7 @@ export const ConsultationSection: React.FC<ConsultationSectionProps> = ({
           {/* Action Buttons */}
           <div className="flex flex-wrap items-center gap-4 pt-2">
             <a
-              href="https://wa.me/27796339234"
+              href="https://wa.me/27694986318"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-2 px-7 py-3 rounded-full bg-[#F7C206] text-[#050100] text-sm font-bold transition-all duration-300 hover:bg-[#FCCF29] hover:shadow-[0_0_20px_rgba(247,194,6,0.35)] active:scale-95 cursor-pointer"
@@ -132,7 +132,7 @@ export const ConsultationSection: React.FC<ConsultationSectionProps> = ({
               <div className="text-sm text-[#FCFCFC]/90 space-y-1">
                 <p className="font-bold text-[#FFFEFE]">Nyawo Royal Group (Pty) Ltd</p>
                 <p className="text-xs text-[#E0DFDE]/70">
-                  Company Directors: Ms. Nombulelo Mlambo & Mr. Sakhile Nyawo
+                  Company Director: Mr. Sakhile Nyawo
                 </p>
               </div>
             </div>
@@ -150,10 +150,10 @@ export const ConsultationSection: React.FC<ConsultationSectionProps> = ({
               <div className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-[#F7C206]" />
                 <a
-                  href="tel:+27796339234"
+                  href="tel:+27694986318"
                   className="hover:text-[#F7C206] transition-colors"
                 >
-                  +27 (0) 79 633 9234
+                  +27 (0) 69 498 6318
                 </a>
               </div>
             </div>

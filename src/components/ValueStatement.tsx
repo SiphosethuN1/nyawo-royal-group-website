@@ -30,7 +30,7 @@ export const ValueStatement: React.FC<ValueStatementProps> = ({
               <span>Othobothini, South Africa • Established 2026</span>
             </div>
             <p className="text-xs md:text-sm text-[#743F05] font-medium leading-relaxed">
-              Directed by <strong className="text-[#050100]">Ms. Nombulelo Mlambo</strong> and{' '}
+              Directed by{' '}
               <strong className="text-[#050100]">Mr. Sakhile Nyawo</strong>, bringing education,
               practical training, and legal solutions under one roof.
             </p>

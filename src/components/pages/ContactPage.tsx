@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import {
   MapPin,
   Phone,
@@ -135,7 +135,7 @@ export const ContactPage: React.FC = () => {
                   Company Directors
                 </span>
                 <p className="text-sm font-semibold text-[#050100]">
-                  Ms. Nombulelo Mlambo & Mr. Sakhile Nyawo
+                  Mr. Sakhile Nyawo
                 </p>
               </div>
 
@@ -152,7 +152,7 @@ export const ContactPage: React.FC = () => {
                   <Phone className="w-4 h-4 text-[#F7C206] shrink-0 mt-0.5" />
                   <div>
                     <span className="font-bold text-[#050100] block">Telephone</span>
-                    <span>+27 (0) 79 633 9234</span>
+                    <span>+27 (0) 69 498 6318</span>
                   </div>
                 </div>
 
@@ -160,7 +160,7 @@ export const ContactPage: React.FC = () => {
                   <MessageSquare className="w-4 h-4 text-[#F7C206] shrink-0 mt-0.5" />
                   <div>
                     <span className="font-bold text-[#050100] block">WhatsApp</span>
-                    <span>+27 (0) 79 633 9234</span>
+                    <span>+27 (0) 69 498 6318</span>
                   </div>
                 </div>
 
@@ -189,7 +189,7 @@ export const ContactPage: React.FC = () => {
                 quick timetable and registration updates.
               </p>
               <a
-                href="https://wa.me/27796339234"
+                href="https://wa.me/27694986318"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#F7C206] text-[#050100] font-bold text-xs hover:bg-[#FCCF29] transition-all"
