@@ -112,13 +112,13 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-[#F7C206]" />
-                <a href="mailto:sakhilew@gmail.com" className="hover:text-[#F7C206]">
-                  sakhilew@gmail.com
+                <a href="mailto:sakhilesecurity4@gmail.com" className="hover:text-[#F7C206]">
+                  sakhilesecurity4@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-3.5 h-3.5 text-[#F7C206]" />
-                <span>Telephone: +27 (0) 69 498 6318</span>
+                <span>Telephone: 032 541 0222</span>
               </div>
             </div>
           </div>
@@ -173,11 +173,13 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               Apply & Connect
             </h4>
             <ul className="space-y-2.5 text-xs md:text-sm text-[#FCFCFC]/70 font-normal">
+              {/* Dormant: Apply or Register Link
               <li>
                 <button onClick={() => handleNav('apply')} className="hover:text-[#F7C206] transition-colors text-left cursor-pointer font-semibold text-[#FFFEFE]">
                   Apply or Register
                 </button>
               </li>
+              */}
               <li>
                 <button onClick={() => handleNav('contact')} className="hover:text-[#F7C206] transition-colors text-left cursor-pointer">
                   Contact Us

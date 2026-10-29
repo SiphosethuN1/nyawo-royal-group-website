@@ -128,7 +128,7 @@ export default function App() {
             {/* 5. Solutions & 5 Core Pillar Services */}
             <SolutionsSection
               onServiceSelect={(serviceId) => navigateTo(serviceId)}
-              onApplyClick={() => navigateTo('apply')}
+              onApplyClick={() => handleOpenModal('General Programme Enquiry')}
             />
 
             {/* 6. Skyscraper Stats: 6 Core Advantages & 10+ Groups */}
@@ -198,7 +198,8 @@ export default function App() {
           />
         )}
 
-        {currentPage === 'apply' && <ApplyRegisterPage />}
+        {/* Dormant: Apply / Register Page */}
+        {/* {currentPage === 'apply' && <ApplyRegisterPage />} */}
 
         {currentPage === 'contact' && <ContactPage />}
 

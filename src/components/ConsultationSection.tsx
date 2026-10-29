@@ -141,19 +141,19 @@ export const ConsultationSection: React.FC<ConsultationSectionProps> = ({
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-[#F7C206]" />
                 <a
-                  href="mailto:sakhilew@gmail.com"
+                  href="mailto:sakhilesecurity4@gmail.com"
                   className="hover:text-[#F7C206] transition-colors"
                 >
-                  sakhilew@gmail.com
+                  sakhilesecurity4@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-[#F7C206]" />
                 <a
-                  href="tel:+27694986318"
+                  href="tel:0325410222"
                   className="hover:text-[#F7C206] transition-colors"
                 >
-                  +27 (0) 69 498 6318
+                  032 541 0222
                 </a>
               </div>
             </div>

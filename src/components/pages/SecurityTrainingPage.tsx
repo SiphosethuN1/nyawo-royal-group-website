@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { ArrowUpRight, Check, Shield, AlertCircle, Info, MessageSquare, Award, Users } from 'lucide-react';
 
 interface SecurityTrainingPageProps {
@@ -161,7 +161,7 @@ export const SecurityTrainingPage: React.FC<SecurityTrainingPageProps> = ({
               Enquire About Training
             </button>
             <a
-              href="https://wa.me/27796339234"
+              href="https://wa.me/27694986318"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-3 px-6 rounded-full border border-[#050100] text-[#050100] font-semibold text-xs flex items-center justify-center gap-2 hover:bg-[#050100] hover:text-[#FFFEFE] transition-all"

@@ -152,7 +152,7 @@ export const ContactPage: React.FC = () => {
                   <Phone className="w-4 h-4 text-[#F7C206] shrink-0 mt-0.5" />
                   <div>
                     <span className="font-bold text-[#050100] block">Telephone</span>
-                    <span>+27 (0) 69 498 6318</span>
+                    <span>032 541 0222</span>
                   </div>
                 </div>
 
@@ -168,7 +168,7 @@ export const ContactPage: React.FC = () => {
                   <Mail className="w-4 h-4 text-[#F7C206] shrink-0 mt-0.5" />
                   <div>
                     <span className="font-bold text-[#050100] block">Business Email</span>
-                    <span>sakhilew@gmail.com</span>
+                    <span>sakhilesecurity4@gmail.com</span>
                   </div>
                 </div>
 

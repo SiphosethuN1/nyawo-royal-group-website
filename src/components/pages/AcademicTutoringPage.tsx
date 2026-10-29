@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { ArrowUpRight, Check, BookOpen, GraduationCap, Calendar, Clock, MessageSquare, CheckCircle2 } from 'lucide-react';
 
 interface AcademicTutoringPageProps {
@@ -277,7 +277,7 @@ export const AcademicTutoringPage: React.FC<AcademicTutoringPageProps> = ({
               Register for Tutoring
             </button>
             <a
-              href="https://wa.me/27796339234"
+              href="https://wa.me/27694986318"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-full border border-white/40 text-white font-semibold text-xs hover:border-[#F7C206] hover:text-[#F7C206] transition-all flex items-center gap-1.5"

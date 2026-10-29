@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { ArrowUpRight, Check, Truck, ShieldAlert, AlertCircle, Info, MessageSquare } from 'lucide-react';
 
 interface OperatorTrainingPageProps {
@@ -251,7 +251,7 @@ export const OperatorTrainingPage: React.FC<OperatorTrainingPageProps> = ({
               Enquire Now
             </button>
             <a
-              href="https://wa.me/27796339234"
+              href="https://wa.me/27694986318"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-full border border-white/40 text-white font-semibold text-xs hover:border-[#F7C206] hover:text-[#F7C206] transition-all flex items-center gap-1.5"

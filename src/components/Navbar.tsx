@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { ArrowUpRight, Menu, X, ChevronDown, MessageSquare } from 'lucide-react';
 
 interface NavbarProps {
@@ -164,6 +164,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             )}
           </div>
 
+          {/* Dormant: Apply / Register Nav Link
           <button
             onClick={() => handleNavClick('apply')}
             className={`transition-colors duration-200 flex items-center gap-1.5 cursor-pointer ${
@@ -177,6 +178,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             )}
             <span>Apply / Register</span>
           </button>
+          */}
 
           <button
             onClick={() => handleNavClick('contact')}
@@ -197,7 +199,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         <div className="hidden sm:flex items-center gap-3">
           {/* WhatsApp Direct Connect */}
           <a
-            href="https://wa.me/27796339234"
+            href="https://wa.me/27694986318"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full border border-[#F7C206]/40 bg-[#050100]/60 text-[#F7C206] text-xs font-semibold hover:border-[#F7C206] hover:bg-[#F7C206]/10 transition-all cursor-pointer"
@@ -276,6 +278,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </div>
             </div>
 
+            {/* Dormant: Mobile Apply / Register Nav Link
             <button
               onClick={() => handleNavClick('apply')}
               className={`flex items-center justify-between py-2 border-b border-[#4F2704]/30 text-left ${
@@ -284,6 +287,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             >
               <span>Apply or Register</span>
             </button>
+            */}
 
             <button
               onClick={() => handleNavClick('contact')}
@@ -315,7 +319,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 <ArrowUpRight className="w-4 h-4" />
               </button>
               <a
-                href="https://wa.me/27796339234"
+                href="https://wa.me/27694986318"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full flex items-center justify-center gap-2 px-6 py-2.5 rounded-full border border-[#F7C206]/50 bg-[#050100] text-[#F7C206] font-semibold text-xs"

@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import {
   GraduationCap,
   Briefcase,
@@ -497,7 +497,7 @@ export const ApplyRegisterPage: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row items-center gap-3 shrink-0 w-full sm:w-auto">
             <a
-              href="https://wa.me/27796339234"
+              href="https://wa.me/27694986318"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-6 py-3 rounded-full bg-[#F7C206] text-[#050100] font-bold text-xs hover:bg-[#FCCF29] transition-all flex items-center justify-center gap-2"
@@ -506,7 +506,7 @@ export const ApplyRegisterPage: React.FC = () => {
               <span>WhatsApp Our Team</span>
             </a>
             <a
-              href="tel:+27796339234"
+              href="tel:0325410222"
               className="w-full sm:w-auto px-6 py-3 rounded-full border border-white/40 text-white font-semibold text-xs hover:border-[#F7C206] hover:text-[#F7C206] transition-all flex items-center justify-center gap-2"
             >
               <Phone className="w-4 h-4" />

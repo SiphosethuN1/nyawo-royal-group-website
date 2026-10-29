@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { ShieldCheck, FileText, Lock, AlertCircle, Mail, MapPin } from 'lucide-react';
 
 export const PrivacyTermsPage: React.FC = () => {
@@ -254,7 +254,7 @@ export const PrivacyTermsPage: React.FC = () => {
                 <div className="p-4 bg-[#FCFCFC] border border-gray-200 rounded-xs space-y-1 text-xs text-[#050100]">
                   <p><strong>Entity:</strong> Nyawo Royal Group (Pty) Ltd</p>
                   <p><strong>Location:</strong> Othobothini, South Africa</p>
-                  <p><strong>Email:</strong> sakhilew@gmail.com</p>
+                  <p><strong>Email:</strong> sakhilesecurity4@gmail.com</p>
                 </div>
                 <p className="text-xs text-[#743F05] font-semibold pt-2">Effective Date: 2026</p>
               </div>

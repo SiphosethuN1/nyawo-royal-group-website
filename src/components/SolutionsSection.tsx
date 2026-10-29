@@ -165,7 +165,7 @@ export const SolutionsSection: React.FC<SolutionsSectionProps> = ({
                 onClick={onApplyClick}
                 className="group inline-flex items-center gap-2 px-7 py-3 rounded-full bg-[#050100] text-[#FFFEFE] text-sm font-bold transition-all duration-300 hover:bg-[#F7C206] hover:text-[#050100] hover:shadow-lg active:scale-95 cursor-pointer"
               >
-                <span>Apply or Register Now</span>
+                <span>Enquire Now</span>
                 <ArrowUpRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
               </button>
             </div>
