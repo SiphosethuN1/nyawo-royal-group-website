@@ -112,8 +112,8 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-[#F7C206]" />
-                <a href="mailto:sakhilesecurity4@gmail.com" className="hover:text-[#F7C206]">
-                  sakhilesecurity4@gmail.com
+                <a href="mailto:sakhile@nyaworoyalgroup.co.za" className="hover:text-[#F7C206]">
+                  sakhile@nyaworoyalgroup.co.za
                 </a>
               </div>
               <div className="flex items-center gap-2">

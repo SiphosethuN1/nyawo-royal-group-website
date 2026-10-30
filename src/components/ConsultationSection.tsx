@@ -141,10 +141,10 @@ export const ConsultationSection: React.FC<ConsultationSectionProps> = ({
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-[#F7C206]" />
                 <a
-                  href="mailto:sakhilesecurity4@gmail.com"
+                  href="mailto:sakhile@nyaworoyalgroup.co.za"
                   className="hover:text-[#F7C206] transition-colors"
                 >
-                  sakhilesecurity4@gmail.com
+                  sakhile@nyaworoyalgroup.co.za
                 </a>
               </div>
               <div className="flex items-center gap-2.5">

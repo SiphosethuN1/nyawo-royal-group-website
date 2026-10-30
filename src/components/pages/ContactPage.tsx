@@ -168,7 +168,7 @@ export const ContactPage: React.FC = () => {
                   <Mail className="w-4 h-4 text-[#F7C206] shrink-0 mt-0.5" />
                   <div>
                     <span className="font-bold text-[#050100] block">Business Email</span>
-                    <span>sakhilesecurity4@gmail.com</span>
+                    <span>sakhile@nyaworoyalgroup.co.za</span>
                   </div>
                 </div>
 
